@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 My name is Matheus and I'm Web developer.
 
- - 💙 In love with JavaScript
- - 🌱 Currently learning Node and React
- - 😄 Also learning React Native and Php 
- - 🔭 I’m currently working on Grupo Edson Queiroz
+ - 💙 In love with technology
+ - 🌱 Currently learning Python
+ - 😄 Also learning Golang and AWS
+ - 🔭 I’m currently working on Lientech
  - ⚡ Dream of traveling the world
 
