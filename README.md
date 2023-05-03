@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 My name is Matheus and I'm Web developer.
 
  - 💙 In love with technology
- - 🌱 Currently learning Python
+ - 🌱 Currently working and learning Python
  - 😄 Also learning Golang and AWS
  - 🔭 I’m currently working on Lientech
  - ⚡ Dream of traveling the world
